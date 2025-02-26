@@ -3,7 +3,7 @@ import requests
 import json
 
 # FastAPI server URL
-API_URL = "http://127.0.0.1:8000/predict"
+#API_URL = "http://127.0.0.1:8000/predict"
 
 st.title("Flower Prediction App 🌸")
 st.write("Enter feature values and get predictions!")
