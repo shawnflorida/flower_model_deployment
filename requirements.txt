@@ -2,4 +2,5 @@ scikit-learn
 fastapi
 joblib
 numpy
-uvicorn
+streamlit
+flask
